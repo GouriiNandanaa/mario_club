@@ -1,0 +1,36 @@
+/* 
+POSITION LAYOUT
+
+Static
+Relative
+Fixed
+Absolute
+Sticky
+
+
+
+
+*/
+
+p{
+  position: relative;
+  left: 20px;
+  bottom: 20px
+}
+
+p{
+  position: fixed
+}
+
+p{
+  position: absolute
+}
+/* when we use absolute posotioning
+the the positioning is done relatively to the parent
+
+
+sticky is mix of absolute and relative
+*/
+
+
+    
